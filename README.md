@@ -1,6 +1,6 @@
 # DocuAI — Frontend
 
-> A Gen Z-styled document intelligence dashboard that lets you drop any PDF, DOCX, or image and instantly get an AI-powered summary, entity extraction, and sentiment analysis — all in one clean interface.
+> A document intelligence dashboard that lets you drop any PDF, DOCX, or image and instantly get an AI-powered summary, entity extraction, and sentiment analysis — all in one clean interface.
 
 ---
 
@@ -89,7 +89,7 @@ VITE_API_URL=/api
 In **production**, point it at your deployed backend:
 
 ```env
-VITE_API_URL=https://your-backend.railway.app/api
+VITE_API_URL=https://docuai-backend-production-e7e1.up.railway.app/
 ```
 
 ### 4. Run the app
